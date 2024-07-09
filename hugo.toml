@@ -1,0 +1,88 @@
+baseURL = 'https://nesu.ca/'
+languageCode = 'en-us'
+paginate = 6
+theme = "coHub"
+title = 'Nesu'
+
+
+# Main Menu
+# [[menu.Main]]
+# name = "Exhibition"
+# url = "#gallery"
+# weight = 1
+[[menu.Main]]
+name = "Services"
+url = "#service"
+weight = 1
+[[menu.Main]]
+name = "About"
+url = "/about/"
+weight = 3
+# [[menu.Main]]
+# name = "Blog"
+# url = "#blog"
+# weight = 4
+# [[menu.Main]]
+# name = "Pricing"
+# url = "#pricing"
+# weight = 5
+# [[menu.Main]]
+# name = "FAQ"
+# url = "#faq"
+# weight = 6
+[[menu.Main]]
+name = "Contact"
+url = "/contact/"
+weight = 7
+
+# Sitemap Menu
+# [[menu.sitemap]]
+# name = "Privacy Policy"
+# url = "/privacy/"
+# weight = 1
+# [[menu.sitemap]]
+# name = "Terms"
+# url = "/terms/"
+# weight = 2
+
+[params]
+# theme_overrides = "css/overrides.css"
+aboutPageURL = "Nesu Facility Services"
+contactLink = "contact"
+copyright = "Nesu Facility Services Canada"
+fabFormURL = "https://fabform.io/f/KePRJdi"
+# googleAnalytics = "G-JZ95FEWF9K"
+logo = "images/logo.png"
+footerlogo = "images/logo.png"
+footerDescription = "Our expertise on access controls, intercom systems, CCTV, locksmithing, glass installation and repairs will help you to take the most modern approach to your facility."
+
+[params.address]
+address = "110-9339 200A St<br>Langley, BC, V1M 3Y4"
+email = "info@nesu.ca"
+openingDesc = "Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days."
+openingHours = "We are open from 9 AM — 5 PM week days."
+phone = "(236) 234-8525"
+
+# [params.map]
+# APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
+# latitude = "45.4502528"
+# longitude = "-122.783407"
+# pinImage = "images/pin.png"
+
+# Social icons
+# [[params.social]]
+# icon = "ti-facebook"
+# url = "https://www.facebook.com/"
+# weight = 1
+# [[params.social]]
+# icon = "ti-twitter-alt"
+# url = "https://twitter.com/"
+# weight = 2
+# [[params.social]]
+# icon = "ti-dribbble"
+# url = "https://dribbble.com/"
+# weight = 3
+# [[params.social]]
+# icon = "ti-instagram"
+# url = "https://www.instagram.com/"
+# weight = 4

@@ -1,0 +1,44 @@
+---
+enable: true
+title: "Why Choose us?"
+subtitle: >
+  We assist businesses to achieve a higher standard when it comes to a facility, including cutting-edge technology on property security, glass installation and repair.
+services:
+  # Locksmithing
+  - name: "Locksmithing"
+    description: >
+      Getting locked out of your car or home? Your electric door keeps buzzing and not closing? Contact us right now for assistance on locksmithing, where our team is fully security licensed to do the job to it's high quality expectation.
+    icon: "ti-lock"
+    img: "images/service/locksmith.jpg"
+  # Glass and window repairs
+  - name: "Glass and Window repairs"
+    description: >
+      We offer full glass replacements, repairs and installation specialized on facilities with expertise on plexiglass, tempered glass, weather stripping, complete storefronts repairs or installations, security devices and more.
+    icon: "ti-widgetized"
+    img: "images/service/windows.jpg"
+  # Access control systems
+  - name: "Access controls and Intercoms"
+    description: >
+      We offer complete solutions for access control systems and intercoms, for access control systems that read by proximity, RF, Infrared, biometric, swipe and gate control systems, as well as autodialer, no phone bill and conventional hardwired intercom systems.
+    icon: "ti-help-alt"
+    img: "images/service/intercom.jpg"
+  # Key fobs, tags, and remotes
+  - name: "Key Fobs, tags and remotes"
+    description: >
+      We offer a big variaty of key fobs, tags and remotes from the industry leaders like Keyscan, HID, Linear and Mircom, with it's proper installation for everything that your facility needs.
+    icon: "ti-key"
+    img: "images/service/fob.png"
+  # Electrician low voltage / structured cabling
+  - name: "Structured Cabling"
+    description: >
+      With our electrician team specialized on low voltage solutions, we cover the installation of access control systems, CCTV cameras, Video Intercoms, and all telephone and data connectivity requirements in the facility, Ensuring proper infrastructure performance of your systems.
+    icon: "ti-lock"
+    img: "images/service/electrician.jpg"
+  # CCTV
+  - name: "CCTV"
+    description: >
+      Closed Circuit Television used for security surveillance for common public access areas, where the presence of these systems will often dissuade possible criminal activity and will keep a record of the areas protected. We offer different types of cameras like dome, bullet, 360 and more.
+    icon: "ti-camera"
+    img: "images/service/CCTV.jpg"
+---
+
