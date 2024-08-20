@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: "Featured In"
 clients:
   - image: "images/client/clients01.png"

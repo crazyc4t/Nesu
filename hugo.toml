@@ -49,19 +49,19 @@ weight = 7
 # theme_overrides = "css/overrides.css"
 aboutPageURL = "Nesu Facility Services"
 contactLink = "contact"
-copyright = "Nesu Facility Services Canada"
 fabFormURL = "https://fabform.io/f/KePRJdi"
 # googleAnalytics = "G-JZ95FEWF9K"
 logo = "images/logo.png"
-footerlogo = "images/logo.png"
+logoWhite = "images/logo-white.png"
+footerlogo = "images/logo-vertical.png"
 footerDescription = "Our expertise on access controls, intercom systems, CCTV, locksmithing, glass installation and repairs will help you to take the most modern approach to your facility."
 
 [params.address]
-address = "110-9339 200A St<br>Langley, BC, V1M 3Y4"
+address = "22420 Dewdney Trunk Rd, Maple Ridge, BC V2X 3J5"
 email = "info@nesu.ca"
 openingDesc = "Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days."
 openingHours = "We are open from 9 AM — 5 PM week days."
-phone = "(236) 234-8525"
+# phone = "(236) 234-8525"
 
 # [params.map]
 # APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
