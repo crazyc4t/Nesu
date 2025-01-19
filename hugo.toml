@@ -1,9 +1,10 @@
 baseURL = 'https://nesu.ca/'
 languageCode = 'en-us'
-paginate = 6
-theme = "coHub"
+theme = "hugo-cohub"
 title = 'Nesu'
 
+[pagination]
+pagerSize = 6
 
 # Main Menu
 # [[menu.Main]]
