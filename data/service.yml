@@ -10,6 +10,12 @@ services:
       Getting locked out of your car or home? Your electric door keeps buzzing and not closing? Contact us right now for assistance on locksmithing, where our team is fully security licensed to do the job to it's high quality expectation.
     icon: "ti-lock"
     img: "images/service/locksmith.jpg"
+  # Locksmithing
+  - name: "Locksmithing"
+    description: >
+      Getting locked out of your car or home? Your electric door keeps buzzing and not closing? Contact us right now for assistance on locksmithing, where our team is fully security licensed to do the job to it's high quality expectation.
+    icon: "ti-lock"
+    img: "images/service/locksmith.jpg"
   # Glass and window repairs
   - name: "Glass and Window repairs"
     description: >
