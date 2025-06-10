@@ -18,7 +18,7 @@ weight = 1
 [[menu.Main]]
 name = "About"
 url = "/about/"
-weight = 3
+weight = 2
 # [[menu.Main]]
 # name = "Blog"
 # url = "#blog"
@@ -34,7 +34,7 @@ weight = 3
 [[menu.Main]]
 name = "Contact"
 url = "/contact/"
-weight = 7
+weight = 3
 
 # Sitemap Menu
 # [[menu.sitemap]]
@@ -55,7 +55,7 @@ fabFormURL = "https://fabform.io/f/KePRJdi"
 logo = "images/logo.png"
 logoWhite = "images/logo-white.png"
 footerlogo = "images/logo-vertical.png"
-footerDescription = "Our expertise on access controls, intercom systems, CCTV, locksmithing, glass installation and repairs will help you to take the most modern approach to your facility."
+footerDescription = "Our expertise on janitorial services, access controls, intercom systems, CCTV, locksmithing, glass installation and repairs will help you to take the most modern approach to your facility."
 
 [params.address]
 address = "22420 Dewdney Trunk Rd, Suite #300, Maple Ridge, BC V2X 3J5"
