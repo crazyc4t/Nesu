@@ -1,0 +1,29 @@
+---
+enable: true
+title: "Our Facility Solutions"
+subtitle: "Professional facility services with cutting-edge technology"
+carousel:
+  - title: "Nesu Facility Solutions"
+    description: "We assist our clients reach their facility needs and requirements by finding the best possible solutions while achieving the best quality of work."
+    image: "images/hero/vancouver-night-v2.jpg"
+    alt: "Picture of Vancouver at night"
+    cta_text: "Contact us"
+    cta_link: "/contact"
+    position: "center"
+  
+  - title: "Feel peace of mind with us"
+    description: "When it comes to security of a facility, we achieve a high standard including cutting-edge technology on property security, glass installation, janitorial services and repairs."
+    image: "images/hero/cameras-dark.jpg"
+    alt: "Picture of CCTV"
+    cta_text: "Learn more"
+    cta_link: "/#service"
+    position: "left"
+  
+  - title: "Janitorial Services for your Facility"
+    description: "We cover from start to finish every step of the way on your facility, including full glass replacement, repair and installation."
+    image: "images/service/commercial-banner.jpg"
+    alt: "Janitorial solutions"
+    cta_text: "About us"
+    cta_link: "/about"
+    position: "right"
+---

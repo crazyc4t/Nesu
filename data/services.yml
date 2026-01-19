@@ -1,0 +1,96 @@
+---
+enable: true
+title: "Our Services"
+subtitle: "We assist Business, Owners, Property Managers and End users in attaining to their facility needs and requirements. We do this by providing reliability in every step of our service. Our philosophy stresses the finding of best viable solution while achieving the best quality of work."
+services:
+  # Janitorial Cleaning
+  - name: "Janitorial Cleaning"
+    tagline: "Professional. Reliable. Detailed."
+    description: >
+      The Nesu standard will ensure that your facility is clean and sanitized, providing a safe environment for your employees and customers. We offer a wide range of services to meet the needs of various facilities, including offices, clinics, retail spaces, and more. Our expertise with strata allows us to provide tailored service to meet the needs of your building.
+    details:
+      - Gym facilities
+      - Carpet, upholstery, and floor maintenance
+      - Marble and natural stone care
+      - Pressure Washing for exterior areas
+      - Site Entrances, stairways and lobbies
+      - Washrooms
+      - Elevators and common corridors
+      - Indoor & Outdoor Amenities
+      - Strata owned guest suites
+      - Property Exterior
+      - Outdoor Amenities and Courtyards
+      - Parkade landing areas
+      - Garbage rooms
+    img: "images/service/cleaning2.jpg"
+    icon: "ti-light-bulb"
+  
+  # Glass & Windows
+  - name: "Glass & Windows"
+    tagline: "Replacements."
+    description: >
+      We offer commercial window replacement solutions for offices, retail spaces, and industrial buildings, focusing on durability and energy efficiency. Prompt and reliable service including board ups and emergency high reach areas. We handle everything from emergency repairs to planned replacements.
+    details:
+      - "Specialty Glass Installation: Tempered glass, laminated glass, frosted glass, and decorative glass options"
+      - "Weatherproofing and Sealing: Solutions to prevent drafts, leaks, and improve efficiency"
+      - "High Rise installations: Low-E Glass, Awnings, Hand Rail Glass, Building Envelope, Rope Access"
+      - "Doors: Tempered doors, lobby glass doors, high security glass doors, Sliding doors"
+    img: "images/service/windows3.jpg"
+    icon: "ti-window"
+  
+  # Locksmith
+  - name: "Locksmith"
+    tagline: "Certified."
+    description: >
+      Our skilled and certified locksmiths are dedicated to ensuring your security with prompt, professional, and reliable services. Whether you need emergency lockout assistance, lock repairs, or advanced security installations, we have the expertise to handle all your locksmith requirements.
+    details:
+      - "Lock Installation and Repair: Professional services for doors, windows, and gates including traditional, smart, and high-security locks"
+      - "Key Duplication and Replacement: Accurate duplication of house keys, padlock keys, and specialty keys"
+      - "Rekeying Services: Change lock mechanisms to render old keys useless without replacing entire locks"
+      - "Access Control Systems: Installation of electronic access control including keycard systems and biometric scanners"
+      - "Master Key Systems: Design and implement systems for controlled multi-area access"
+      - "High-Security Locks and Safes: Advanced solutions for valuable assets and sensitive information"
+      - "Reinforcements: Deadbolts, Strike Plates, Astragals, Panic Bars, Window Cages, Lock Cylinders"
+    img: "images/service/locksmith.jpg"
+    icon: "ti-key"
+  
+  # Access Controls & Fobs
+  - name: "Access Controls & Fobs"
+    tagline: "Fobs."
+    description: >
+      Access Controls is the systematic management of who can enter specific areas and at what times, using individual access credentials such as fobs, tags, and remotes. We provide a wide range of products from leading industry brands with available inventory at all times. Expert installation ensures your facility's access needs are met seamlessly and efficiently.
+    details:
+      - "Proximity, RF, Infrared, and Biometric systems"
+      - "Swipe and gate control systems"
+      - "Products from industry leaders: Keyscan, HID, Linear, Mircom"
+      - "Professional installation and maintenance"
+    img: "images/service/fob.png"
+    icon: "ti-key"
+  
+  # Electrician - Low Voltage
+  - name: "Structured Cabling & Low Voltage"
+    tagline: "Low Voltage."
+    description: >
+      With our electrician team specialized on low voltage solutions, providing professional electrical services designed to enhance functionality, safety, and efficiency. We cover installation of access control systems, CCTV cameras, Video Intercoms, and all telephone and data connectivity requirements in the facility.
+    details:
+      - "Installation of access control systems and CCTV cameras"
+      - "Video Intercom setup for business environments with multi-zone communication"
+      - "Telephone and data connectivity requirements"
+      - "Intrusion detection and fire alarm systems"
+      - "Proper infrastructure performance monitoring"
+    img: "images/service/electrician.jpg"
+    icon: "ti-lock"
+  
+  # CCTV
+  - name: "CCTV"
+    tagline: "Security Surveillance."
+    description: >
+      Closed Circuit Television used for security surveillance of common public access areas. The presence of these systems often dissuades possible criminal activity and keeps a record of protected areas. We offer different types of cameras including dome, bullet, 360 and more.
+    details:
+      - "Dome cameras"
+      - "Bullet cameras"
+      - "360-degree cameras"
+      - "Custom surveillance solutions"
+    img: "images/service/cctv.jpg"
+    icon: "ti-camera"
+---

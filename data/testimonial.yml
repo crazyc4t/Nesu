@@ -1,5 +1,8 @@
 ---
-enable: false
+enable: true
+title: "Our Goal"
+bgImage: "images/testimonial-bg.jpg"
+goalStatement: "We deliver solutions designed for today's rapidly evolving environments, incorporating the latest advancements in products, systems, and technologies. Our approach ensures you stay where you want to be—whether that's staying ahead of the curve with cutting-edge innovations that meet the dynamic needs of modern facilities or maintaining the status quo when it's best not to reinvent the wheel."
 testimonial:
   - author: "TechCrunch"
     testimonialDetails: "Behind every great product, there is a great mind"
