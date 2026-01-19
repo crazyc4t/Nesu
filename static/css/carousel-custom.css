@@ -1,0 +1,49 @@
+/* Carousel image and slide styling */
+.story-slider .carousel-slide {
+  position: relative;
+  height: 500px;
+  overflow: hidden;
+}
+
+.story-slider .carousel-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.story-slider .carousel-caption {
+  position: absolute;
+  bottom: 20%;
+  z-index: 10;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+
+.story-slider .carousel-caption.text-center {
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.story-slider .carousel-caption.text-left {
+  left: 10%;
+  text-align: left;
+}
+
+.story-slider .carousel-caption.text-right {
+  right: 10%;
+  text-align: right;
+}
+
+@media (min-width: 768px) {
+  .story-slider .carousel-slide {
+    height: 600px;
+  }
+}
+
+@media (min-width: 992px) {
+  .story-slider .carousel-slide {
+    height: 700px;
+  }
+}

@@ -1,0 +1,18 @@
+{{with .Site.Data.carousel}} {{if .enable}}
+<div class="story-slider">
+  {{range $index, $item := .carousel}}
+  <div class="carousel-slide">
+    <img src="/{{$item.image}}" alt="{{$item.alt}}" />
+    <div class="container">
+      <div class="carousel-caption text-{{$item.position}}">
+        <h1>{{$item.title}}</h1>
+        <p>{{$item.description}}</p>
+        <p>
+          <a class="btn btn-lg btn-primary btn-hover" href="{{$item.cta_link}}">{{$item.cta_text}}</a>
+        </p>
+      </div>
+    </div>
+  </div>
+  {{end}}
+</div>
+{{end}} {{end}}
