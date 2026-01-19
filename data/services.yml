@@ -1,13 +1,13 @@
 ---
 enable: true
-title: "Our Services"
-subtitle: "We assist Business, Owners, Property Managers and End users in attaining to their facility needs and requirements. We do this by providing reliability in every step of our service. Our philosophy stresses the finding of best viable solution while achieving the best quality of work."
+title: "What We Do"
+subtitle: "Everything your facility needs, one company to call."
 services:
   # Janitorial Cleaning
   - name: "Janitorial Cleaning"
-    tagline: "Professional. Reliable. Detailed."
+    tagline: "Clean. Period."
     description: >
-      The Nesu standard will ensure that your facility is clean and sanitized, providing a safe environment for your employees and customers. We offer a wide range of services to meet the needs of various facilities, including offices, clinics, retail spaces, and more. Our expertise with strata allows us to provide tailored service to meet the needs of your building.
+      Your building stays spotless. Your tenants stay happy. From daily cleaning to deep sanitization, we handle every detail so you don't have to.
     details:
       - Gym facilities
       - Carpet, upholstery, and floor maintenance
@@ -27,9 +27,9 @@ services:
   
   # Glass & Windows
   - name: "Glass & Windows"
-    tagline: "Replacements."
+    tagline: "Broken? Fixed."
     description: >
-      We offer commercial window replacement solutions for offices, retail spaces, and industrial buildings, focusing on durability and energy efficiency. Prompt and reliable service including board ups and emergency high reach areas. We handle everything from emergency repairs to planned replacements.
+      Emergency repair or planned upgrade - we do both. Same-day service available for the emergencies.
     details:
       - "Specialty Glass Installation: Tempered glass, laminated glass, frosted glass, and decorative glass options"
       - "Weatherproofing and Sealing: Solutions to prevent drafts, leaks, and improve efficiency"
@@ -40,9 +40,9 @@ services:
   
   # Locksmith
   - name: "Locksmith"
-    tagline: "Certified."
+    tagline: "Locked out? Call us."
     description: >
-      Our skilled and certified locksmiths are dedicated to ensuring your security with prompt, professional, and reliable services. Whether you need emergency lockout assistance, lock repairs, or advanced security installations, we have the expertise to handle all your locksmith requirements.
+      Emergency lockouts, lock repairs, smart locks, master key systems. Fast, certified, reliable.
     details:
       - "Lock Installation and Repair: Professional services for doors, windows, and gates including traditional, smart, and high-security locks"
       - "Key Duplication and Replacement: Accurate duplication of house keys, padlock keys, and specialty keys"
@@ -56,9 +56,9 @@ services:
   
   # Access Controls & Fobs
   - name: "Access Controls & Fobs"
-    tagline: "Fobs."
+    tagline: "Control who gets in."
     description: >
-      Access Controls is the systematic management of who can enter specific areas and at what times, using individual access credentials such as fobs, tags, and remotes. We provide a wide range of products from leading industry brands with available inventory at all times. Expert installation ensures your facility's access needs are met seamlessly and efficiently.
+      Proximity fobs, biometric scanners, keycards. You control access. We make it happen.
     details:
       - "Proximity, RF, Infrared, and Biometric systems"
       - "Swipe and gate control systems"
@@ -69,9 +69,9 @@ services:
   
   # Electrician - Low Voltage
   - name: "Structured Cabling & Low Voltage"
-    tagline: "Low Voltage."
+    tagline: "Infrastructure done right."
     description: >
-      With our electrician team specialized on low voltage solutions, providing professional electrical services designed to enhance functionality, safety, and efficiency. We cover installation of access control systems, CCTV cameras, Video Intercoms, and all telephone and data connectivity requirements in the facility.
+      CCTV wiring, access control cabling, intercoms, network infrastructure. The systems that make everything else work.
     details:
       - "Installation of access control systems and CCTV cameras"
       - "Video Intercom setup for business environments with multi-zone communication"
@@ -83,9 +83,9 @@ services:
   
   # CCTV
   - name: "CCTV"
-    tagline: "Security Surveillance."
+    tagline: "See everything."
     description: >
-      Closed Circuit Television used for security surveillance of common public access areas. The presence of these systems often dissuades possible criminal activity and keeps a record of protected areas. We offer different types of cameras including dome, bullet, 360 and more.
+      Security cameras that deter crime and protect your assets. Installed right, monitored right.
     details:
       - "Dome cameras"
       - "Bullet cameras"
