@@ -1,7 +1,6 @@
 ---
 enable: true
-title: "What We Do"
-subtitle: "Everything your facility needs, one company to call."
+title: "We Are Everything Your Facility Needs"
 services:
   # Janitorial Cleaning
   - name: "Janitorial Cleaning"
