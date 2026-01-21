@@ -1,0 +1,51 @@
+colorScheme = "ocean"
+defaultAppearance = "light"
+disableImageOptimization = false
+logo = "img/logo.png"
+
+[header]
+  layout = "basic"
+
+[homepage]
+  layout = "page"
+  showRecent = false
+
+[article]
+  showDate = true
+  showViews = false
+  showLikes = false
+  showDateUpdated = false
+  showAuthor = true
+  showHero = true
+  heroStyle = "background"
+  showBreadcrumbs = false
+  showDraftLabel = true
+  showEdit = false
+  showSummary = true
+  showTableOfContents = false
+  showTaxonomies = false
+  showWordCount = false
+  showComments = false
+
+[list]
+  showHero = false
+  showBreadcrumbs = false
+  showSummary = false
+  showTableOfContents = false
+  showCards = true
+  groupByYear = false
+
+[sitemap]
+  excludedKinds = []
+
+[taxonomy]
+  showTermCount = true
+
+[fathomAnalytics]
+  site = ""
+
+[verification]
+  google = ""
+  bing = ""
+  pinterest = ""
+  yandex = ""

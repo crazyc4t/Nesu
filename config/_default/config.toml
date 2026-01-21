@@ -1,0 +1,11 @@
+baseURL = "https://nesu.ca"
+languageCode = "en"
+title = "Nesu Facility Solutions"
+theme = "blowfish"
+
+enableRobotsTXT = true
+paginate = 20
+summaryLength = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

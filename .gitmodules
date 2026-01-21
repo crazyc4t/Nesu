@@ -1,3 +1,16 @@
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
+[submodule "themes/stack"]
+	path = themes/stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack
 [submodule "themes/hugo-cohub"]
 	path = themes/hugo-cohub
 	url = https://github.com/crazyc4t/hugo-cohub.git
+[submodule "themes/hugo-fresh"]
+	path = themes/hugo-fresh
+	url = https://github.com/StefMa/hugo-fresh
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
