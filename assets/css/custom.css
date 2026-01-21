@@ -1,0 +1,15 @@
+/* Increase size of service section images */
+.img-featurette {
+  max-width: 800px !important; /* Increased from 600px */
+  height: auto;
+  width: 100%;
+  margin: auto;
+  display: block;
+}
+
+/* On medium screens, adjust size */
+@media (max-width: 991px) {
+  .img-featurette {
+    max-width: 100% !important;
+  }
+}
