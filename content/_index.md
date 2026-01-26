@@ -105,16 +105,10 @@ body { padding-top: 96px; }
 
 </div>
 
----
-
-<div style="padding: 40px 40px;">
+<div style="text-align: center; padding: 0 40px 60px;">
 
 ## Ready to Get Started?
 
-We're here to make your job easier. Whether it's keeping your building clean, fixing a broken lock, or installing security cameras—we show up on time, do the work right, and don't overcomplicate things.
-
-**Contact:** (604) 217-0538  
-**Email:** info@nesu.ca  
-**Location:** 22420 Dewdney Trunk Rd, Suite #300, Maple Ridge, BC V2X 3J5
+<a href="/contact" style="display: inline-block; background: linear-gradient(135deg, #500050 0%, #700070 100%); color: white; padding: 16px 40px; font-size: 1.2em; font-weight: 600; text-decoration: none; border-radius: 8px; margin-top: 20px; transition: transform 0.2s ease, box-shadow 0.2s ease; box-shadow: 0 4px 15px rgba(80,0,80,0.3);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(80,0,80,0.4)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(80,0,80,0.3)';">Contact Us</a>
 
 </div>

@@ -1,7 +1,10 @@
 ---
 enable: true
-title: "Ready to get started? We are."
-buttonTarget: contact
-priceLink: "#priceLink"
+title: "Ready to Get Started?"
+content: ""
+button:
+  enable: true
+  label: "Contact Us"
+  link: "/contact"
 ---
 
