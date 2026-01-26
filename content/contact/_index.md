@@ -60,7 +60,7 @@ article h1:first-of-type, .prose h1:first-of-type {
 
 <div class="contact-grid">
 
-<div>
+<div style="border: 2px solid #e0e0e0; border-radius: 12px; padding: 40px; background: #fafafa; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
 
 ## Contact Form
 
@@ -94,7 +94,7 @@ article h1:first-of-type, .prose h1:first-of-type {
 
 </div>
 
-<div>
+<div style="border: 2px solid #e0e0e0; border-radius: 12px; padding: 40px; background: #fafafa; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
 
 ## Our Office
 
