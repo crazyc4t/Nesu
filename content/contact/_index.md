@@ -49,9 +49,17 @@ article h1:first-of-type, .prose h1:first-of-type {
 }
 
 @media (max-width: 768px) {
+  .contact-container {
+    padding: 20px 20px 40px 20px;
+  }
+  
   .contact-grid {
     grid-template-columns: 1fr;
-    gap: 40px;
+    gap: 30px;
+  }
+  
+  .contact-grid > div {
+    padding: 30px 20px !important;
   }
 }
 </style>
@@ -60,7 +68,7 @@ article h1:first-of-type, .prose h1:first-of-type {
 
 <div class="contact-grid">
 
-<div style="border: 2px solid #e0e0e0; border-radius: 12px; padding: 40px; background: #fafafa; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<div style="border: 2px solid rgba(80, 0, 80, 0.3); border-radius: 12px; padding: 40px; background: rgba(80, 0, 80, 0.08); box-shadow: 0 2px 8px rgba(80, 0, 80, 0.1);">
 
 ## Contact Form
 
@@ -94,7 +102,7 @@ article h1:first-of-type, .prose h1:first-of-type {
 
 </div>
 
-<div style="border: 2px solid #e0e0e0; border-radius: 12px; padding: 40px; background: #fafafa; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<div style="border: 2px solid rgba(80, 0, 80, 0.3); border-radius: 12px; padding: 40px; background: rgba(80, 0, 80, 0.08); box-shadow: 0 2px 8px rgba(80, 0, 80, 0.1);">
 
 ## Our Office
 

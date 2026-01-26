@@ -2,6 +2,7 @@ colorScheme = "ocean"
 defaultAppearance = "light"
 disableImageOptimization = false
 logo = "img/logo.png"
+favicon = "favicon.png"
 
 [header]
   layout = "basic"
