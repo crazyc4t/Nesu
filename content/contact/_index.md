@@ -16,21 +16,34 @@ body { padding-top: 96px; }
 article .article-list { display: none !important; }
 .article-pagination { display: none !important; }
 
+/* Add space at top of article content */
+article, .article-content, main article {
+  padding-top: 60px !important;
+}
+
+/* Center the Contact Us title */
+article h1:first-of-type, .prose h1:first-of-type {
+  text-align: center !important;
+}
+
 @media (max-width: 768px) {
   body { padding-top: 68px; }
+  article, .article-content, main article {
+    padding-top: 40px !important;
+  }
 }
 
 .contact-container {
   max-width: 100%;
   margin: 0 auto;
-  padding: 60px 80px;
+  padding: 20px 80px 60px 80px;
 }
 
 .contact-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 80px;
-  margin: 40px 0;
+  margin: 0;
   max-width: 1400px;
   margin: 0 auto;
 }
@@ -83,7 +96,7 @@ article .article-list { display: none !important; }
 
 <div>
 
-## Our office
+## Our Office
 
 ### 22420 Dewdney Trunk Rd, Suite #300, Maple Ridge, BC V2X 3J5
 
@@ -97,6 +110,18 @@ article .article-list { display: none !important; }
 Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days.
 
 **We are open from 9 AM — 5 PM week days.**
+
+<div style="margin-top: 40px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2602.8567234567890!2d-122.59876!3d49.21890!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485d6d9f9f9f9f9%3A0x1234567890abcdef!2s22420%20Dewdney%20Trunk%20Rd%20%23300%2C%20Maple%20Ridge%2C%20BC%20V2X%203J5!5e0!3m2!1sen!2sca!4v1234567890123!5m2!1sen!2sca"
+    width="100%" 
+    height="400" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
 
 </div>
 
