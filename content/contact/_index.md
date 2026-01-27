@@ -11,8 +11,6 @@ showComments: false
 ---
 
 <style>
-body { padding-top: 96px; }
-
 article .article-list { display: none !important; }
 .article-pagination { display: none !important; }
 
@@ -27,7 +25,6 @@ article h1:first-of-type, .prose h1:first-of-type {
 }
 
 @media (max-width: 768px) {
-  body { padding-top: 68px; }
   article, .article-content, main article {
     padding-top: 40px !important;
   }

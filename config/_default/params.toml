@@ -6,7 +6,7 @@ logo = "img/logo.png"
 favicon = "favicon.png"
 
 [header]
-  layout = "basic"
+  layout = "fixed-fill"
 
 [homepage]
   layout = "page"

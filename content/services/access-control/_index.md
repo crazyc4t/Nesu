@@ -11,12 +11,10 @@ showWordCount: false
 ---
 
 <style>
-body { padding-top: 96px; }
 article, .article-content, main article {
   padding-top: 60px !important;
 }
 @media (max-width: 768px) {
-  body { padding-top: 68px; }
   article, .article-content, main article {
     padding-top: 40px !important;
   }
