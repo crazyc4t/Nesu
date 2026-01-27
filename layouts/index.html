@@ -1,0 +1,40 @@
+{{ define "main" }}
+<style>
+body { padding-top: 96px; }
+
+.prose h1:first-child, article > h1:first-of-type, article > header { 
+  display: none !important; 
+  margin: 0 !important; 
+  padding: 0 !important; 
+}
+
+@media (max-width: 768px) {
+  body { padding-top: 68px; }
+  .carousel-container { 
+    height: 50vh !important; 
+    min-height: 300px !important; 
+  }
+  .carousel-container h1 { 
+    font-size: 2em !important; 
+    margin-bottom: 20px !important; 
+    color: white !important; 
+  }
+  .carousel-container h2 { 
+    font-size: 1.5em !important; 
+    margin-bottom: 15px !important; 
+    color: white !important; 
+  }
+  .carousel-container p { 
+    font-size: 1em !important; 
+    color: white !important; 
+  }
+}
+</style>
+
+{{ .Content }}
+
+{{ partial "services.html" . }}
+
+{{ partial "cta.html" . }}
+
+{{ end }}

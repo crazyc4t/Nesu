@@ -4,6 +4,7 @@ title: "We Are Everything Your Facility Needs"
 services:
   # Janitorial Cleaning
   - name: "Janitorial Cleaning"
+    url: "/services/janitorial/"
     tagline: "Clean. Period."
     description: >
       Your building stays spotless. Your tenants stay happy. From daily cleaning to deep sanitization, we handle every detail so you don't have to.
@@ -26,6 +27,7 @@ services:
   
   # Glass & Windows
   - name: "Glass & Windows"
+    url: "/services/glass-windows/"
     tagline: "Broken? Fixed."
     description: >
       Emergency repair or planned upgrade - we do both. Same-day service available for the emergencies.
@@ -39,6 +41,7 @@ services:
   
   # Locksmith
   - name: "Locksmith"
+    url: "/services/locksmith/"
     tagline: "Locked out? Call us."
     description: >
       Emergency lockouts, lock repairs, smart locks, master key systems. Fast, certified, reliable.
@@ -54,7 +57,8 @@ services:
     icon: "ti-key"
   
   # Access Controls & Fobs
-  - name: "Access Controls & Fobs"
+  - name: "Access Control"
+    url: "/services/access-control/"
     tagline: "Control who gets in."
     description: >
       Proximity fobs, biometric scanners, keycards. You control access. We make it happen.
@@ -67,7 +71,8 @@ services:
     icon: "ti-key"
   
   # Electrician - Low Voltage
-  - name: "Structured Cabling & Low Voltage"
+  - name: "Low Voltage Electrical"
+    url: "/services/cabling/"
     tagline: "Infrastructure done right."
     description: >
       CCTV wiring, access control cabling, intercoms, network infrastructure. The systems that make everything else work.
@@ -81,7 +86,8 @@ services:
     icon: "ti-lock"
   
   # CCTV
-  - name: "CCTV"
+  - name: "CCTV Security"
+    url: "/services/cctv/"
     tagline: "See everything."
     description: >
       Security cameras that deter crime and protect your assets. Installed right, monitored right.

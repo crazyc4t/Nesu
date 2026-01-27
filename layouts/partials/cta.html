@@ -1,0 +1,11 @@
+{{ if site.Data.cta.enable }}
+<div style="text-align: center; padding: 0 40px 60px;">
+  <h2>{{ site.Data.cta.title }}</h2>
+  {{ if site.Data.cta.content }}
+  <p>{{ site.Data.cta.content }}</p>
+  {{ end }}
+  {{ if site.Data.cta.button.enable }}
+  <a href="{{ site.Data.cta.button.link }}" style="display: inline-block; background: linear-gradient(135deg, #500050 0%, #700070 100%); color: white; padding: 16px 40px; font-size: 1.2em; font-weight: 600; text-decoration: none; border-radius: 8px; margin-top: 20px; transition: transform 0.2s ease, box-shadow 0.2s ease; box-shadow: 0 4px 15px rgba(80,0,80,0.3);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(80,0,80,0.4)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(80,0,80,0.3)';">{{ site.Data.cta.button.label }}</a>
+  {{ end }}
+</div>
+{{ end }}
