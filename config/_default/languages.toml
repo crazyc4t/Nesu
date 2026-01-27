@@ -2,7 +2,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Nesu Facility Solutions"
+title = "Facility Solutions"
 
 [en.params]
   displayName = "EN"
@@ -10,12 +10,12 @@ title = "Nesu Facility Solutions"
   rtl = false
   dateFormat = "2 January 2006"
   description = "Professional facility services - Janitorial, Security, Glass & Windows, Locksmith"
-  logo = "images/logo.png"
+  logo = "img/logo.png"
   mainSections = ["services"]
   
 [en.params.author]
-  name = "Nesu Facility Solutions"
-  image = "images/logo.png"
+  name = "Facility Solutions"
+  image = "img/logo.png"
   headline = "Clean. Secure. Reliable."
   bio = "Professional facility services in Vancouver"
   links = []

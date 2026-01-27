@@ -1,6 +1,7 @@
 colorScheme = "ocean"
 defaultAppearance = "light"
 disableImageOptimization = false
+disableTextInHeader = true
 logo = "img/logo.png"
 favicon = "favicon.png"
 

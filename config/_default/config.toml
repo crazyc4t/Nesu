@@ -1,6 +1,6 @@
 baseURL = "https://nesu.ca"
 languageCode = "en"
-title = "Nesu Facility Solutions"
+title = "Facility Solutions"
 theme = "blowfish"
 
 enableRobotsTXT = true

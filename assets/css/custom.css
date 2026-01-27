@@ -1,3 +1,20 @@
+/* Keep skip to main content accessible but hidden until focused */
+#the-top a {
+  position: absolute !important;
+  left: -9999px !important;
+}
+
+#the-top a:focus {
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+}
+
+/* Make logo bigger */
+.logo {
+  max-height: 10rem !important;
+  max-width: 10rem !important;
+}
+
 /* Increase size of service section images */
 .img-featurette {
   max-width: 800px !important; /* Increased from 600px */
