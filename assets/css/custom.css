@@ -9,10 +9,55 @@
   transform: translateX(-50%) !important;
 }
 
+/* Hide dark mode switcher */
+#appearance-switcher,
+#appearance-switcher-mobile {
+  display: none !important;
+}
+
 /* Make logo bigger */
 .logo {
-  max-height: 10rem !important;
-  max-width: 10rem !important;
+  max-height: 20rem !important;
+  max-width: 20rem !important;
+}
+
+img.logo {
+  max-height: 20rem !important;
+  max-width: 20rem !important;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .logo {
+    max-height: 8rem !important;
+    max-width: 8rem !important;
+  }
+  
+  img.logo {
+    max-height: 8rem !important;
+    max-width: 8rem !important;
+  }
+  
+  nav a span.text-base,
+  nav a span.font-medium,
+  nav.flex.items-center a span {
+    font-size: 1.5rem !important;
+  }
+}
+
+/* Make navigation menu text much bigger - target the span inside links */
+nav a span.text-base,
+nav a span.font-medium,
+nav.flex.items-center a span {
+  font-size: 3rem !important;
+  font-weight: 700 !important;
+  line-height: 1.2 !important;
+}
+
+/* Make sure nav container can handle larger text */
+nav.flex.items-center.gap-x-5 {
+  height: auto !important;
+  min-height: 4rem !important;
 }
 
 /* Increase size of service section images */
