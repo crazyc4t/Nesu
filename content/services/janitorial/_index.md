@@ -65,37 +65,6 @@ Your building stays spotless. Your tenants stay happy. From daily cleaning to de
 
 ---
 
-## WHY CHOOSE NESU FOR JANITORIAL SERVICES?
-
-**[ADD CONTENT HERE - EXPLAIN YOUR COMPETITIVE ADVANTAGES]**
-
-Example points to cover:
-- Years of experience
-- Trained and certified staff
-- Eco-friendly cleaning products
-- Flexible scheduling (daily, weekly, monthly)
-- Emergency cleaning available
-- Licensed and insured
-
----
-
-## SERVICE AREAS
-
-We serve commercial and residential properties throughout:
-- Maple Ridge
-- Coquitlam
-- Port Coquitlam
-- Pitt Meadows
-- **[ADD MORE AREAS YOU SERVE]**
-
----
-
-## PRICING & QUOTES
-
-**[ADD PRICING INFORMATION OR CONTACT CTA]**
-
-Every facility is different. We offer free on-site consultations to assess your needs and provide accurate quotes.
-
 <div style="text-align: center; margin: 60px 0; padding: 40px; background: rgba(80, 0, 80, 0.08); border: 2px solid rgba(80, 0, 80, 0.3); border-radius: 12px;">
   <h3 style="margin-bottom: 20px;">Ready to get started?</h3>
   <p style="font-size: 1.2em; margin-bottom: 30px;">Contact us today for a free consultation and quote.</p>

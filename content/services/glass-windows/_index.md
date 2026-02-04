@@ -69,44 +69,6 @@ Solutions to prevent drafts, leaks, and improve energy efficiency
 
 ---
 
-## EMERGENCY GLASS REPAIR
-
-**[ADD CONTENT ABOUT EMERGENCY SERVICES]**
-
-We understand that broken glass is a security risk. Our team offers:
-- Same-day emergency service
-- Board-up services
-- 24/7 availability for emergencies
-- **[ADD MORE EMERGENCY SERVICE DETAILS]**
-
----
-
-## TYPES OF GLASS WE WORK WITH
-
-**[EXPAND ON GLASS TYPES AND APPLICATIONS]**
-
-- Commercial storefronts
-- Office partitions
-- Residential windows
-- Safety glass
-- Energy-efficient glass
-- **[ADD MORE GLASS TYPES]**
-
----
-
-## WHY CHOOSE NESU FOR GLASS SERVICES?
-
-**[ADD YOUR COMPETITIVE ADVANTAGES]**
-
-Example points:
-- Certified glaziers
-- High-rise capabilities
-- Quality materials from trusted suppliers
-- Licensed and insured
-- **[ADD MORE DIFFERENTIATORS]**
-
----
-
 <div style="text-align: center; margin: 60px 0; padding: 40px; background: rgba(80, 0, 80, 0.08); border: 2px solid rgba(80, 0, 80, 0.3); border-radius: 12px;">
   <h3 style="margin-bottom: 20px;">Need glass repair or installation?</h3>
   <p style="font-size: 1.2em; margin-bottom: 30px;">Contact us for emergency service or a free quote.</p>

@@ -67,58 +67,6 @@ Structured cabling for phones, internet, and communications
 
 ---
 
-## PROFESSIONAL INSTALLATION STANDARDS
-
-**[ADD YOUR INSTALLATION METHODOLOGY]**
-
-We follow industry standards:
-- Clean cable routing and organization
-- Proper labeling and documentation
-- Cable testing and certification
-- Future-proofing for expansion
-- **[ADD MORE INSTALLATION DETAILS]**
-
----
-
-## PROJECT TYPES
-
-**[ADD PROJECT EXAMPLES]**
-
-We handle:
-- New construction installations
-- Building renovations
-- System upgrades
-- Emergency repairs
-- **[ADD MORE PROJECT TYPES]**
-
----
-
-## WHY STRUCTURED CABLING MATTERS
-
-**[EXPLAIN BENEFITS OF PROPER CABLING]**
-
-Benefits include:
-- Reduced downtime
-- Easier troubleshooting
-- Scalability for future needs
-- Professional appearance
-- **[ADD MORE BENEFITS]**
-
----
-
-## COMMERCIAL & RESIDENTIAL
-
-**[ADD MARKET-SPECIFIC DETAILS]**
-
-We serve:
-- Office buildings
-- Multi-unit residential
-- Retail locations
-- Industrial facilities
-- **[ADD MORE MARKET SEGMENTS]**
-
----
-
 <div style="text-align: center; margin: 60px 0; padding: 40px; background: rgba(80, 0, 80, 0.08); border: 2px solid rgba(80, 0, 80, 0.3); border-radius: 12px;">
   <h3 style="margin-bottom: 20px;">Need professional cabling installation?</h3>
   <p style="font-size: 1.2em; margin-bottom: 30px;">Get a consultation and quote for your project.</p>

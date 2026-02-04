@@ -76,42 +76,6 @@ Advanced solutions for valuable assets and sensitive information
 
 ---
 
-## EMERGENCY LOCKOUT SERVICE
-
-**[ADD EMERGENCY SERVICE DETAILS]**
-
-Locked out? We provide:
-- Fast response times
-- 24/7 emergency availability
-- Non-destructive entry when possible
-- **[ADD MORE EMERGENCY DETAILS]**
-
----
-
-## COMMERCIAL LOCKSMITH SERVICES
-
-**[ADD COMMERCIAL-SPECIFIC CONTENT]**
-
-We specialize in:
-- Multi-unit residential buildings
-- Office complexes
-- Retail locations
-- **[ADD MORE COMMERCIAL APPLICATIONS]**
-
----
-
-## WHY CHOOSE NESU LOCKSMITH SERVICES?
-
-**[ADD YOUR CREDENTIALS AND DIFFERENTIATORS]**
-
-- Certified and trained locksmiths
-- Licensed and insured
-- Latest technology and techniques
-- Upfront pricing
-- **[ADD MORE ADVANTAGES]**
-
----
-
 <div style="text-align: center; margin: 60px 0; padding: 40px; background: rgba(80, 0, 80, 0.08); border: 2px solid rgba(80, 0, 80, 0.3); border-radius: 12px;">
   <h3 style="margin-bottom: 20px;">Need a locksmith?</h3>
   <p style="font-size: 1.2em; margin-bottom: 30px;">Emergency service available 24/7. Contact us now.</p>
